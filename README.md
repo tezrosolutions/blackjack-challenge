@@ -27,7 +27,7 @@ Take Half ($50) Back.
 #### DOUBLE DOWN
 Starting another bet with same amount. (*not implemented*)
 
-
+<br> <br>
 
 ## Class Diagram
 ![Class Diagram](class-diagram.png "Class Diagram")
