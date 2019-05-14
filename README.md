@@ -16,7 +16,7 @@
 Add More cards (Add Hands). (*not implemented*)
 
 ### STAND 
-Play
+Play.
 
 ### SPLIT
 Split the bet into two bets, if they get the same value cards. (*not implemented*)
