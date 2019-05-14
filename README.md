@@ -1,4 +1,4 @@
-# blackjack
+# The BlackJack
 
 ## Game Rules
 1. The dealer will give you two cards.
