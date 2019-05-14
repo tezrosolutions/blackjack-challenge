@@ -1,5 +1,7 @@
 # The BlackJack
 
+*This is an eclipse project*
+
 ## Game Rules
 1. The dealer will give you two cards.
 2. You can double your bet anytime before you hit or stand and split your bet. 
