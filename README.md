@@ -12,19 +12,19 @@
 
 
 ## Supported Moves
-### HIT
+#### HIT
 Add More cards (Add Hands). (*not implemented*)
 
-### STAND 
+#### STAND 
 Play.
 
-### SPLIT
+#### SPLIT
 Split the bet into two bets, if they get the same value cards. (*not implemented*)
 
-### SURRENDER
+#### SURRENDER
 Take Half ($50) Back.
 
-### DOUBLE DOWN
+#### DOUBLE DOWN
 Starting another bet with same amount. (*not implemented*)
 
 
